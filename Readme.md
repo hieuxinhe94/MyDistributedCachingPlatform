@@ -1,6 +1,6 @@
 ﻿
 
- - Theo cách hiểu của tôi. Trong caching có 3 tùy chọn (**In-process
+ - Trong caching có 3 tùy chọn (**In-process
    cache, In-memory cache, Distributed cache**).
  - Trong bài tập nêu ra, tự xây dựng một distributed cache, thay vì sữ
    dụng những service sẵn có như redis, tôi đã tự xây dựng một caching
@@ -33,7 +33,5 @@ Hiện tại đã cấu hình run with multiple app, cho nên chỉ cần nhấn
 	Định dạng message lỗi "-" (Ex: "-Error message")
 - 
 
-###  Vì làm trong thời gian ngắn, kiến thức cũng hạn chế nên còn nhiều vấn đề, vui lòng cho tôi các feedbacks để cải thiện.
-Thank you very much.
 
 
