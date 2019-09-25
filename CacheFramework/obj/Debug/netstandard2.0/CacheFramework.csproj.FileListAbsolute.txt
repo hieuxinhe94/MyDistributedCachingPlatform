@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\CacheFramework\bin\Debug\netstandard2.0\CacheFramework.deps.json
+C:\Users\DELL\source\repos\CacheFramework\bin\Debug\netstandard2.0\CacheFramework.dll
+C:\Users\DELL\source\repos\CacheFramework\bin\Debug\netstandard2.0\CacheFramework.pdb
+C:\Users\DELL\source\repos\CacheFramework\obj\Debug\netstandard2.0\CacheFramework.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CacheFramework\obj\Debug\netstandard2.0\CacheFramework.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CacheFramework\obj\Debug\netstandard2.0\CacheFramework.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CacheFramework\obj\Debug\netstandard2.0\CacheFramework.dll
+C:\Users\DELL\source\repos\CacheFramework\obj\Debug\netstandard2.0\CacheFramework.pdb
+C:\Users\DELL\Source\Repos\CacheFramework\obj\Debug\netstandard2.0\CacheFramework.csprojAssemblyReference.cache
